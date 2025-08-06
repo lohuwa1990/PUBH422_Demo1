@@ -1,0 +1,10 @@
+id gender race trt  day      amt
+ 1      F    0   0 day1 19.81310
+ 1      F    0   0 day2 18.05777
+ 1      F    0   0 day3 14.84996
+ 2      M    0   0 day1 17.91846
+ 2      M    0   0 day2 18.75825
+ 2      M    0   0 day3 15.30547
+ 3      M    0   0 day1 17.22526
+ 3      M    0   0 day2 19.79218
+ 3      M    0   0 day3 15.10622
